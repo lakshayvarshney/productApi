@@ -1,0 +1,16 @@
+[
+    {
+        "id": "walkera",
+        "name":"walker01",
+        "company":"stepupp",
+        "price":1299,
+        "colors":["#fd0000","#00d100","#ffc0cb","#0000ff"],
+        "description":"Stepupp present a trendy musical activity walker.This is recommended for 8 to 24 months age of baby.Its made high quality plastic safe for your kids.this musical activity walker make your kids fun and entertain also.it is also foldable and can be stored easily when not in use",
+        "category":"walker",
+        "featured": true,
+        "stock":5,
+        "reviews":110,
+        "stars":4.8,
+        "image":"https://rukminim1.flixcart.com/image/416/416/kt4ozgw0/walker/p/u/x/stp-g-red-musical-2-in-1-walker-with-parent-rod-for-baby-02-db-original-imag6jnytedrzzfy.jpeg?q=70"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "tricyclec",
+        "name":"ST-03",
+        "company":"stepupp",
+        "price":1999,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true,
+        "stock":5,
+        "reviews":58,
+        "stars":4.9,
+        "image":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/k/l/d/2in1-tricycle-with-safety-guardrail-and-handle-for-age-group-1-original-imagbh98zj9ghz8r.jpeg?q=70"
+    }
+]
